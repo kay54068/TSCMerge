@@ -1,8 +1,11 @@
 id: fb09840eea710b7c249431d6a4118e9bbcc757a0
+replaces: d771b7aaf0d53a7deb635405858ba6fa2e0937d5
+closed: true
 created: kay_chen	kay_chen@tscprinters.com	1488724300559	480
 heads: fa64f4cf2bc2019b8a5d4d42eb4d2b9ede589ee0
 source-head: 19411f24617acf5bd18d0bd6f61556ad2029b4e9
 target: refs/heads/master
 target-head: 19411f24617acf5bd18d0bd6f61556ad2029b4e9
+updated: kay_chen	kay_chen@tscprinters.com	1488724523034	480
 content
 我要合併
