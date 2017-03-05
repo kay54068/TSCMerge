@@ -1,8 +1,11 @@
 id: be8de4463b91bd45cce2f4434a37e8e18a65f8c5
+replaces: a9a24cae763437b411b2326c5bdc37ed7cd13640
+closed: true
 created: kay_chen	kay_chen@tscprinters.com	1488724546896	480
 heads: 71d25be8c8f685f2b2a188e73f73dd489daebcfc
 source-head: 19411f24617acf5bd18d0bd6f61556ad2029b4e9
 target: refs/heads/master
 target-head: 19411f24617acf5bd18d0bd6f61556ad2029b4e9
+updated: kay_chen	kay_chen@tscprinters.com	1488724597388	480
 content
 GGGGG
